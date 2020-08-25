@@ -1,5 +1,13 @@
 # ZeroTrust
 Zero Trust Network Architectures
+> 
+> A vendor-neutral Industry perspective on Zero Trust Networks.
+> 
+> This collection of contributions provides a high-level overview of Zero Trust referencing
+> sources including NIST and NCSC. Industry contributions are aimed at providing application
+> related input and use cases.
+>
+> Please get in touch if you would like to contribute.
 
 
 
