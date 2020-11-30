@@ -25,12 +25,23 @@ Therefore, a zero trust enterprise is the network infrastructure (physical and v
 
 ## NCSC Principles (summary version)
 
-- Single strong source of user identity
-- User authentication
-- Machine authentication
-- Additional context, such as policy compliance and device health
-- Authorisation policies to access an application
-- Access control policies within an application
+### Know your architecture including users, devices, and services 
+You need to know your assets – who are your users, what trusted device do you expect them to use, and what services are they likely to need access to? 
+### Know your user, service, and device identities
+Knowing your users and devices is not sufficient – how are they going to demonstrate they are who they claim to be when on the other end of a network connection? 
+### Know the health of your users, devices, and services
+Knowing the right user is at the end of the network connection is not sufficient. They may be on a malware-ridden PC (even if it is the right PC). Is that PC up to date with the latest patches and compliant with the anti-malware policy?
+### Use policies to authorise requests
+Based on the above points, we know the users and devices are trustworthy. But are they authorised to access the service? 
+### Authenticate everywhere
+All connections need to be authenticated to ensure the request is from a trusted source.
+### Focus your monitoring on devices and services
+Despite putting in place great protection mechanisms, at some point you will still be attacked, but that attack could now be anywhere – including a cloud service no longer on your network. How are you going to monitor the service to get the earliest possible indication something is awry?
+### Don’t trust any network, including your own
+Your network is just as likely to be attacked as anyone else’s. 
+### Choose services designed for Zero Trust
+Fundamentally, if your services adopt the points above, and do them well, you’re going to carry less security risk. 
+
 
 # Use Cases
 
