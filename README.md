@@ -23,7 +23,7 @@ Zero trust architecture (ZTA) is an enterprise’s cybersecurity plan that utili
 
 Therefore, a zero trust enterprise is the network infrastructure (physical and virtual) and operational policies that are in place for an enterprise as a product of a zero trust architecture plan. 
 
-## NCSC Principles (summary version)
+## [NCSC Principles](https://github.com/ukncsc/zero-trust-architecture) (summary version)
 
 ### Know your architecture including users, devices, and services 
 You need to know your assets – who are your users, what trusted device do you expect them to use, and what services are they likely to need access to? 
