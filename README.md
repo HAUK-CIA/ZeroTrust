@@ -45,6 +45,22 @@ Your network is just as likely to be attacked as anyone else’s.
 ### Choose services designed for Zero Trust
 Fundamentally, if your services adopt the points above, and do them well, you’re going to carry less security risk. 
 
+
+## Core supporting capabilities
+By implication of the NIST and NCSC models, the following capabilities are central to a Zero Trust implementation
+* **Risk Assessment**
+
+The need to understand the risks users, devices and services are exposed to, to enable appropriate Zero Trust security controls.
+
+* **Identity Management**
+
+Core to ensuring only trusted users and devices are given access to services
+
+* **Monitoring & Detection**
+
+To feed risk-based access controls.
+
+
 # Use Cases
 
 
