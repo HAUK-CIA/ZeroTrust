@@ -10,8 +10,11 @@ Zero Trust Network Architectures
 > Please get in touch if you would like to contribute.
 
 
-# The ZT Concept
-Zero Trust Networks Architectures assume that networked devices should not be trusted by default, even if they are connected to a managed corporate network. In most modern enterprise environments, corporate networks consist of many interconnected segments, cloud-based services and infrastructure, connections to remote and mobile environments, and increasingly connections to IoT devices. The once traditional approach of trusting devices within a notional corporate perimeter, or devices connected to it via a VPN, makes less sense in such highly diverse and distributed environments. Instead, the Zero Trust Networking approach advocates checking the identity and integrity of devices irrespective of location, and providing access to applications and services based on the confidence of device identity and device health in combination with user authentication.
+# The Zero Trust Concept
+
+First and foremost, Zero Trust is a concept.  It is not at architecture or technology.   It cannot be delivered by a single producy.
+
+The Zero Trust concept works on the principle that networked devices should not be trusted by default, even if they are connected to a managed corporate network. In most modern enterprise environments, corporate networks consist of many interconnected segments, cloud-based services and infrastructure, connections to remote and mobile environments, and increasingly connections to IoT devices. The once traditional approach of trusting devices within a notional corporate perimeter, or devices connected to it via a VPN, makes less sense in such highly diverse and distributed environments. Instead, the Zero Trust Networking approach advocates checking the identity and integrity of devices irrespective of location, and providing access to applications and services based on the confidence of device identity and device health in combination with user authentication.
 
 # Definitions
 
@@ -41,7 +44,6 @@ Despite putting in place great protection mechanisms, at some point you will sti
 Your network is just as likely to be attacked as anyone else’s. 
 ### Choose services designed for Zero Trust
 Fundamentally, if your services adopt the points above, and do them well, you’re going to carry less security risk. 
-
 
 # Use Cases
 
