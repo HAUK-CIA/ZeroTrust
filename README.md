@@ -20,11 +20,11 @@ The Zero Trust concept works on the principle that networked devices should not 
 
 ## NIST Definition(s) SP 800-207
 
-Zero trust (ZT) provides a collection of concepts and ideas designed to reduce the uncertainty in enforcing accurate, per-request access decisions in information systems and services in the face of a network viewed as compromised. 
+Zero trust (ZT) provides a collection of concepts and ideas designed to minimize uncertainty in enforcing accurate, least privilege per-request access decisions in information systems and services in the face of a network viewed as compromised. 
 
-Zero trust architecture (ZTA) is an enterprise’s cybersecurity plan that utilizes zero trust concepts and  encompasses component relationships, workflow planning, and access policies. 
+Zero trust architecture (ZTA) is an enterprise’s cybersecurity plan that utilizes zero trust concepts and encompasses component relationships, workflow planning, and access policies. 
 
-Therefore, a zero trust enterprise is the network infrastructure (physical and virtual) and operational policies that are in place for an enterprise as a product of a zero trust architecture plan. 
+Therefore, a zero trust enterprise is the network infrastructure (physical and virtual) and operational policies that are in place for an enterprise as a product of a zero trust architecture plan.
 
 ## [NCSC Principles](https://github.com/ukncsc/zero-trust-architecture) (summary version)
 
